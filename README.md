@@ -54,3 +54,10 @@ For Different View
 
 Hope you enjoy the Solution!
 # youspace
+
+    Screen Shots
+    
+    ![home](https://github.com/aimlessfeet99/youspace/assets/29983616/861d1e53-8b72-41e2-b347-3d2be914b2e4)
+    ![detail](https://github.com/aimlessfeet99/youspace/assets/29983616/756bedab-e1d4-448c-8e9e-884f38554ed3)
+
+
